@@ -3,7 +3,7 @@
 ### Chat Bots (Discord Bots)
 * **MotorHelp: AI 기반 자동차 정비 도우미 & 실차주 커뮤니티 플랫폼** [[Github]](https://github.com/hjworkzz/MotorHelp) 🏆
   * Author: 김현진
-* **IntoDrama: 드라마 캐릭터 AI 챗봇** [[Github]](https://github.com/kimseoan0516/IntoDrama) [[Homepage]] 🏆(https://intodrama.vercel.app/)
+* **IntoDrama: 드라마 캐릭터 AI 챗봇** [[Github]](https://github.com/kimseoan0516/IntoDrama) [[Homepage]](https://intodrama.vercel.app/) 🏆
   * Author: 김서안
 * **GS25 AI Smart Curator** [[Github]](https://github.com/minsu0426/Convenience-store-real-time-radar)
   * Author: 김민수
