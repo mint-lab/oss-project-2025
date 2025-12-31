@@ -3,7 +3,7 @@
 ### Chat Bots (Discord Bots)
 * **MotorHelp: AI 기반 자동차 정비 도우미 & 실차주 커뮤니티 플랫폼** [[Github]](https://github.com/hjworkzz/MotorHelp) 🏆
   * Author: 김현진
-* **IntoDrama: 드라마 캐릭터 AI 챗봇** [[Github]](https://github.com/kimseoan0516/IntoDrama) [[Homepage]](https://intodrama.vercel.app/)
+* **IntoDrama: 드라마 캐릭터 AI 챗봇** [[Github]](https://github.com/kimseoan0516/IntoDrama) [[Homepage]] 🏆(https://intodrama.vercel.app/)
   * Author: 김서안
 * **GS25 AI Smart Curator** [[Github]](https://github.com/minsu0426/Convenience-store-real-time-radar)
   * Author: 김민수
@@ -15,7 +15,7 @@
   * Author: 심재현
 * **moodtown** [[Github]](https://github.com/bearivh/moodtown) 🏆
   * Author: 문시현
-* **시옷 (SIOT): 일기를 시로 변환하는 웹 애플리케이션** [[Github]](https://github.com/jinbaaaaaang/siot)
+* **시옷 (SIOT): 일기를 시로 변환하는 웹 애플리케이션** [[Github]](https://github.com/jinbaaaaaang/siot) 🏆
   * Author: 김채윤
 * **fitmate: 다이어트 & 재테크 결합 앱** [[Github-Introduction]](https://github.com/2492dfd/diet-app) [[Github-Frontend]](https://github.com/2492dfd/dietflutter) [[Github-Backend]](https://github.com/2492dfd/diet-backend/tree/master)
   * Author: 이채린
